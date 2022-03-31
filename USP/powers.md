@@ -2,6 +2,8 @@
 
 ## Pouvoirs
 
+> Sauf mention contraire, tous les pouvoirs ne sont utilisables qu'une fois.
+
 ### **Agile**
  Peut esquiver n'importe quel effet.
 ### **Bomberman**
@@ -13,7 +15,7 @@
 ### **Fossoyeur**
  Peut échanger les cartes de sa main contre autant de cartes du cimetière.
 ### **Musclé**
- Peut doubler la valeur d'un effet.
+ Peut doubler la valeur d'un effet *(activale deux fois)*.
 ### **Promoteur**
  Peut transformer une carte nombre en carte "+nombre".
 ### **Roi**
@@ -27,4 +29,4 @@
 ### **Tricheur**
  Peut défausser une carte de sa main.
 ### **Voyante**
-  - Peut forcer quelqu'un à révéler son jeu.
+ Peut forcer quelqu'un à révéler son jeu.
