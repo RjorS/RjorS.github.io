@@ -1,6 +1,3 @@
-# HB2U
-
-## Pouvoirs
 
 > Sauf mention contraire, tous les pouvoirs ne sont utilisables qu'une fois.
 
