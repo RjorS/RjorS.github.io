@@ -1,6 +1,3 @@
-# HB2U
-
-## Règles
 
 ### Jeu de cartes
 
