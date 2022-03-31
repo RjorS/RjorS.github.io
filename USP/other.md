@@ -1,7 +1,0 @@
-# USP
-
-Other
-
-## MD
-
-Md
