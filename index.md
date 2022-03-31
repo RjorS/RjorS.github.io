@@ -1,3 +1,3 @@
 # HB2U
 
-[Link](USP/other.md)
+- [Uno Super-Pouvoirs](USP/other.md)
