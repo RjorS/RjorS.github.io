@@ -12,7 +12,7 @@
 ### **Fossoyeur**
  Peut échanger les cartes de sa main contre autant de cartes du cimetière.
 ### **Musclé**
- Peut doubler la valeur d'un effet *(activale deux fois)*.
+ Peut doubler la valeur d'un effet *(activable deux fois)*.
 ### **Promoteur**
  Peut transformer une carte nombre en carte "+nombre".
 ### **Roi**
